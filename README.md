@@ -12,3 +12,9 @@ Para usarlo compilalo y ejecutalo de la siguiente manera:
 
 javac Principal.java
 java Principal
+
+
+## Actualizacion: Gestion de usuarios.
+
+### Descripcion:
+Ahora se pueden crear arrays de usuarios, pidiendo la informacion de cada uno y luego se mostrara por pantalla.
